@@ -1,8 +1,8 @@
 # Hi, I'm Omar 👋
-Aspiring AI engineer building RAG and ML projects in Python.
+Learning AI engineering. Building projects to understand how LLM apps work.
 
 ## Projects
-- **[DocsQA](https://github.com/0marhawas/docsqa)**: RAG system with an evaluation harness and CI quality gate
+- **[DocsQA](https://github.com/0marhawas/docsqa)**: a RAG project that answers questions over documents with citations. Built with AI help while I learn how each part works.
 
-## Skills
-Python · RAG · FastAPI · Docker
+## Currently learning
+AI engineering · RAG · LLM evaluation · Python · Git
